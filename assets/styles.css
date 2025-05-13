@@ -15,7 +15,7 @@
 .form h1 
 {
 
-  background: #5868bf;
+  background: #0000CD;
   padding: 20px 0;
   font-weight: 300;
   text-align: center;
@@ -43,9 +43,9 @@
 .form input[type="url"]:focus 
 {
 
-  box-shadow: 0 0 5px #5868bf;
+  box-shadow: 0 0 5px #0000CD;
   padding: 3%;
-  border: 1px solid #5868bf;
+  border: 1px solid #0000CD;
 
 }
 
@@ -58,8 +58,8 @@
   width: 150px;
   margin: 0 auto;
   padding: 3%;
-  background: #5868bf;
-  border-bottom: 2px solid #5868bf;
+  background: #0000CD;
+  border-bottom: 2px solid #0000CD;
   border-top-style: none;
   border-right-style: none;
   border-left-style: none;
@@ -71,7 +71,7 @@
 .form button:hover 
 {
 
-  background: rgba(88,104,191, 0.5);
+  background: #4169E1;
 
 }
 
