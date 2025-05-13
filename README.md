@@ -14,4 +14,4 @@ To access the website, [Click here](https://joaoaugustocolassohandocha.github.io
 
 #
 
-![QR Code](image.png)
+![QR Code](image.jpg)
